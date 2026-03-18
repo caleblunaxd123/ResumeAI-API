@@ -1,0 +1,24 @@
+services:
+  - type: web
+    name: resumeai-api
+    runtime: node
+    plan: free
+    buildCommand: npm install && npm run build
+    startCommand: npm start
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: PORT
+        value: 10000
+      - key: MAX_FILE_SIZE_MB
+        value: 5
+      - key: RATE_LIMIT_MAX
+        value: 100
+      - key: RATE_LIMIT_WINDOW_MS
+        value: 60000
+      - key: LOG_LEVEL
+        value: info
+      - key: ANTHROPIC_API_KEY
+        sync: false
+      - key: RAPIDAPI_PROXY_SECRET
+        sync: false

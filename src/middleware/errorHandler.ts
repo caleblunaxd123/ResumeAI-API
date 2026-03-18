@@ -54,6 +54,25 @@ export function errorHandler(
     return;
   }
 
+  // Anthropic SDK errors (credit issues, auth, overload, etc.)
+  const anyErr = error as Record<string, unknown>;
+  if (anyErr.status && anyErr.error && typeof anyErr.error === 'object') {
+    const apiErr = anyErr.error as Record<string, unknown>;
+    const type = String(apiErr.type ?? '');
+    if (type === 'invalid_request_error' && String(apiErr.message ?? '').includes('credit')) {
+      reply.code(503).send({
+        success: false,
+        error: { code: 'SERVICE_UNAVAILABLE', message: 'AI service temporarily unavailable.', docs_url: DOCS_URL },
+      });
+      return;
+    }
+    reply.code(502).send({
+      success: false,
+      error: { code: 'AI_API_ERROR', message: 'Error communicating with AI service.', docs_url: DOCS_URL },
+    });
+    return;
+  }
+
   // Fastify built-in errors (e.g., rate limit)
   const fastifyErr = error as FastifyError;
   if (fastifyErr.statusCode === 429) {
