@@ -55,7 +55,7 @@ export function errorHandler(
   }
 
   // Anthropic SDK errors (credit issues, auth, overload, etc.)
-  const anyErr = error as Record<string, unknown>;
+  const anyErr = error as unknown as Record<string, unknown>;
   if (anyErr.status && anyErr.error && typeof anyErr.error === 'object') {
     const apiErr = anyErr.error as Record<string, unknown>;
     const type = String(apiErr.type ?? '');
