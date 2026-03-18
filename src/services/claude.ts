@@ -5,7 +5,9 @@ import { buildParsePrompt, buildScorePrompt, buildRankPrompt } from './prompts.j
 import { ClaudeError } from '../errors.js';
 
 const client = new Anthropic({ apiKey: config.ANTHROPIC_API_KEY });
-const MODEL = 'claude-sonnet-4-20250514';
+// Haiku: ~12x cheaper than Sonnet, still excellent for structured CV extraction
+// Upgrade to 'claude-sonnet-4-6' anytime for higher accuracy if needed
+const MODEL = 'claude-haiku-4-5-20251001';
 
 // ─── Parse ────────────────────────────────────────────────────────────────────
 
