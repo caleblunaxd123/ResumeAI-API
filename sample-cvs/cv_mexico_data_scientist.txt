@@ -1,0 +1,75 @@
+RODRIGO ALEJANDRO GUTIÉRREZ IBÁÑEZ
+Data Scientist | Machine Learning Engineer
+Ciudad de México, CDMX | rodrigo.gutierrez@gmail.com | +52 55 1234 5678
+LinkedIn: linkedin.com/in/rodrigo-gutierrez-ds | GitHub: github.com/rodrigo-ds
+
+════════════════════════════════════════════════════════════════════════════════
+RESUMEN
+════════════════════════════════════════════════════════════════════════════════
+Data Scientist con 4 años de experiencia en machine learning, análisis de datos
+y construcción de modelos predictivos en producción. Especialista en Python y
+frameworks de ML (scikit-learn, XGBoost, TensorFlow). Experiencia en sector
+retail y telco en México. Busco rol senior en empresa con cultura data-driven.
+
+════════════════════════════════════════════════════════════════════════════════
+EXPERIENCIA LABORAL
+════════════════════════════════════════════════════════════════════════════════
+
+Grupo Elektra / Banco Azteca                           Febrero 2022 – Actualidad
+Data Scientist Sr.
+• Desarrollé modelo de scoring crediticio con XGBoost que mejoró la tasa de
+  aprobación en 18% manteniendo el mismo nivel de riesgo (implementado en prod)
+• Construí pipeline de datos end-to-end con Apache Airflow + Spark para
+  procesar 500GB de transacciones diarias
+• Creé sistema de detección de fraude en tiempo real (latencia < 200ms) usando
+  isolation forest + reglas de negocio
+• Presenté hallazgos a directores de negocio y área de riesgo (stakeholder mgmt)
+
+Telcel / América Móvil                                 Julio 2020 – Enero 2022
+Data Analyst / Junior Data Scientist
+• Análisis de churn de clientes: modelo de predicción con 78% de precisión
+  usando regresión logística y random forest
+• Automaticé reportes de KPIs usando Python + SQL, ahorrando 20 horas/semana
+  al equipo de inteligencia comercial
+• Dashboards interactivos con Power BI para seguimiento de campañas de retención
+
+════════════════════════════════════════════════════════════════════════════════
+EDUCACIÓN
+════════════════════════════════════════════════════════════════════════════════
+
+Instituto Tecnológico y de Estudios Superiores de Monterrey (ITESM)   2015 – 2020
+Licenciatura en Ingeniería en Ciencias de Datos y Matemáticas
+Concentración: Inteligencia Artificial
+Promedio: 92/100 | Mención honorífica
+
+════════════════════════════════════════════════════════════════════════════════
+HABILIDADES TÉCNICAS
+════════════════════════════════════════════════════════════════════════════════
+
+Python:         pandas, numpy, scikit-learn, XGBoost, TensorFlow, Keras, FastAPI
+SQL:            PostgreSQL, BigQuery, MySQL, Redshift
+MLOps:          MLflow, Airflow, Docker, GCP (Vertex AI, BigQuery, Cloud Storage)
+Visualización:  Power BI, Tableau, matplotlib, seaborn, Plotly
+Otros:          Spark (PySpark), Git, Jupyter, dbt
+
+════════════════════════════════════════════════════════════════════════════════
+CERTIFICACIONES
+════════════════════════════════════════════════════════════════════════════════
+- Google Professional Data Engineer (2023)
+- TensorFlow Developer Certificate (2022)
+- DeepLearning.AI Deep Learning Specialization (Coursera, 2021)
+
+════════════════════════════════════════════════════════════════════════════════
+PROYECTOS DESTACADOS
+════════════════════════════════════════════════════════════════════════════════
+- Sistema de recomendación para e-commerce (collaborative filtering + content-based)
+- NLP: clasificador de sentimiento de comentarios en Twitter México (BERT fine-tuned)
+- Kaggle: Top 8% en competencia de predicción de precios inmobiliarios CDMX
+
+════════════════════════════════════════════════════════════════════════════════
+IDIOMAS
+════════════════════════════════════════════════════════════════════════════════
+Español: Nativo | Inglés: Avanzado (TOEFL 105/120) | Francés: Básico
+
+CURP: GUIR950312HDFGBD08
+Disponibilidad: 1 mes de aviso previo

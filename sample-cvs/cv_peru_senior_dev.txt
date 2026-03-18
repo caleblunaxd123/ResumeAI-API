@@ -1,0 +1,86 @@
+CARLOS ANDRÉS MENDOZA RÍOS
+Desarrollador de Software Senior
+Lima, Perú | carlos.mendoza@gmail.com | +51 987 654 321
+LinkedIn: linkedin.com/in/carlosmendoza | GitHub: github.com/carlosmendoza
+
+────────────────────────────────────────────────────────────────────────────────
+PERFIL PROFESIONAL
+────────────────────────────────────────────────────────────────────────────────
+Ingeniero de sistemas con más de 7 años de experiencia en desarrollo de software
+backend y arquitectura de microservicios. Especializado en Python, Node.js y
+AWS. He liderado equipos de hasta 8 personas y gestionado proyectos de alta
+criticidad en el sector financiero peruano. Apasionado por las buenas prácticas,
+el código limpio y la entrega de valor real al negocio.
+
+────────────────────────────────────────────────────────────────────────────────
+EXPERIENCIA PROFESIONAL
+────────────────────────────────────────────────────────────────────────────────
+
+Banco de Crédito del Perú (BCP)                         Marzo 2021 – Presente
+Desarrollador Senior Backend
+- Lideré la migración de sistema monolítico legacy a arquitectura de microservicios
+  usando Python/FastAPI y AWS ECS, reduciendo el tiempo de deploy en 40%
+- Diseñé e implementé APIs REST para el módulo de pagos digitales, procesando
+  más de 2 millones de transacciones diarias
+- Reduje la latencia promedio de las APIs de 800ms a 120ms mediante optimización
+  de queries SQL y caching con Redis
+- Mentoreé a 4 desarrolladores juniors y semi-senior del equipo
+- Implementé pipeline CI/CD con Jenkins y Docker, mejorando la calidad del código
+
+Interbank                                               Enero 2019 – Febrero 2021
+Desarrollador Backend
+- Desarrollé servicios REST en Node.js/Express para integración con VISA y
+  Mastercard, manejando transacciones en tiempo real
+- Integré APIs de terceros: RENIEC para validación de identidad, SUNAT para
+  facturación electrónica
+- Implementé sistema de alertas y monitoreo con AWS CloudWatch y PagerDuty
+- Participé en el desarrollo del sistema de onboarding digital (100% web),
+  reduciendo el tiempo de apertura de cuentas de 3 días a 15 minutos
+
+Startup Fintech "PagoYa"                                Junio 2017 – Diciembre 2018
+Desarrollador Full Stack Junior/Semi-Senior
+- Construí desde cero la plataforma de pagos QR usando React + Node.js
+- Diseñé el esquema de base de datos PostgreSQL para gestión de billeteras digitales
+- Implementé autenticación OAuth2 y 2FA para seguridad de usuarios
+
+────────────────────────────────────────────────────────────────────────────────
+EDUCACIÓN
+────────────────────────────────────────────────────────────────────────────────
+
+Universidad Peruana de Ciencias Aplicadas (UPC)         2012 – 2017
+Bachiller en Ingeniería de Sistemas e Informática
+- Graduado con distinción, promedio 16.2/20
+- Proyecto de tesis: "Sistema de detección de fraude bancario usando Machine Learning"
+
+────────────────────────────────────────────────────────────────────────────────
+HABILIDADES TÉCNICAS
+────────────────────────────────────────────────────────────────────────────────
+
+Lenguajes:      Python, JavaScript/TypeScript, SQL, Bash
+Backend:        FastAPI, Node.js, Express, Django REST Framework
+Frontend:       React, Vue.js (básico)
+Bases de datos: PostgreSQL, MySQL, Redis, MongoDB
+Cloud:          AWS (EC2, ECS, Lambda, RDS, S3, CloudWatch, API Gateway)
+DevOps:         Docker, Kubernetes (básico), Jenkins, GitHub Actions
+Testing:        Pytest, Jest, Postman
+
+────────────────────────────────────────────────────────────────────────────────
+CERTIFICACIONES
+────────────────────────────────────────────────────────────────────────────────
+- AWS Certified Developer – Associate (2022)
+- AWS Certified Solutions Architect – Associate (2023)
+- Scrum Master Certificado (CSM) – Scrum Alliance (2020)
+
+────────────────────────────────────────────────────────────────────────────────
+IDIOMAS
+────────────────────────────────────────────────────────────────────────────────
+- Español: Nativo
+- Inglés: Avanzado (C1) – TOEIC 885/990
+- Portugués: Básico
+
+────────────────────────────────────────────────────────────────────────────────
+DATOS ADICIONALES
+────────────────────────────────────────────────────────────────────────────────
+DNI: 47321985
+Disponibilidad: Inmediata
+Modalidad: Remoto o híbrido (Lima)

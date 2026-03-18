@@ -1,0 +1,76 @@
+SOPHIA CLAIRE THOMPSON
+Senior Product Manager
+San Francisco, CA | sophia.thompson@gmail.com | (415) 987-6543
+LinkedIn: linkedin.com/in/sophiathompson | Portfolio: sophiathompson.io
+
+─────────────────────────────────────────────────────────────────────────────
+PROFESSIONAL SUMMARY
+─────────────────────────────────────────────────────────────────────────────
+Product leader with 8+ years of experience building 0→1 products and scaling
+B2B SaaS platforms to $50M+ ARR. Track record of delivering features used by
+millions of users at Stripe, Asana, and Series B startups. Expert in
+discovery, roadmap prioritization, and cross-functional alignment. Deeply
+technical background (former engineer) with strong design sensibility.
+
+─────────────────────────────────────────────────────────────────────────────
+EXPERIENCE
+─────────────────────────────────────────────────────────────────────────────
+
+Stripe                                                  Feb 2021 – Present
+Senior Product Manager, Payments Infrastructure
+• Own the roadmap for Stripe's core payment routing engine, processing $1T+
+  annually across 46 countries
+• Led 0→1 launch of intelligent payment routing (ML-based) reducing failed
+  payments by 23%, adding $2.3B in recovered revenue
+• Drove cross-functional alignment across 12 engineering teams, 3 design
+  leads, and C-suite stakeholders to deliver 4 major platform migrations
+• Shipped Link (Stripe's 1-click checkout) from beta to 100M+ users in 18 months
+• Mentored 3 associate PMs; 2 promoted to PM level within 12 months
+
+Asana                                                   Jun 2018 – Jan 2021
+Product Manager, Collaboration & Integrations
+• Owned Asana's integration ecosystem (200+ third-party apps, 500K+ users)
+• Launched Asana for Slack integration, adopted by 35% of enterprise accounts
+  within 6 months of release
+• Reduced integration setup time from 15 min to 2 min by redesigning the
+  connection flow (NPS +18 pts)
+• Worked with partnerships team to grow integration partner revenue by 140%
+
+TechVentures (Series B startup)                         Mar 2016 – May 2018
+Product Manager (first PM hire)
+• Built and shipped the company's first enterprise dashboard from scratch
+• Grew DAU from 2K to 85K in 18 months through iterative discovery sprints
+• Managed full product lifecycle: discovery → design → development → launch
+
+─────────────────────────────────────────────────────────────────────────────
+EDUCATION
+─────────────────────────────────────────────────────────────────────────────
+
+Stanford University                                     2013 – 2015
+M.S. in Computer Science, Human-Computer Interaction focus
+GPA: 3.8/4.0
+
+University of Michigan, Ann Arbor                       2009 – 2013
+B.S. in Computer Science
+GPA: 3.9/4.0, Summa Cum Laude
+
+─────────────────────────────────────────────────────────────────────────────
+SKILLS & TOOLS
+─────────────────────────────────────────────────────────────────────────────
+
+Product:     Product strategy, roadmap planning, OKRs, user research,
+             A/B testing, data-driven decision making, PRD writing
+Tools:       Amplitude, Mixpanel, Figma, JIRA, Confluence, Looker, SQL
+Technical:   Python (proficient), SQL, REST APIs, system design basics
+
+─────────────────────────────────────────────────────────────────────────────
+CERTIFICATIONS & RECOGNITION
+─────────────────────────────────────────────────────────────────────────────
+- Forbes 30 Under 30: Enterprise Technology (2022)
+- Speaker: ProductCon SF 2022, 2023 — "Scaling payment products globally"
+- Certified Scrum Product Owner (CSPO) – Scrum Alliance
+
+─────────────────────────────────────────────────────────────────────────────
+LANGUAGES
+─────────────────────────────────────────────────────────────────────────────
+English: Native | Spanish: Conversational (B2) | Mandarin: Basic
